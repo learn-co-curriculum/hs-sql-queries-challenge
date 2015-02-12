@@ -43,5 +43,5 @@ You should already be connected up to the shared Chinook database for a small mu
 ### Cheat Sheets
 
 [SQL Cheat Sheet from a Flatiron Alum](http://www.korenlc.com/sql-cheat-sheet/)
-[Select Statements](https://zetcode.com/databases/mysqltutorial/select)
+[Select Statements](http://zetcode.com/databases/mysqltutorial/select)
 
