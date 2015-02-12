@@ -42,6 +42,6 @@ You should already be connected up to the shared Chinook database for a small mu
 
 ### Cheat Sheets
 
-[SQL Cheat Sheet from a Flatiron Alum](https://gist.github.com/hofmannsven/9164408)
-[Essential MySQL Cheat Sheet](http://www.cheatography.com/guslong/cheat-sheets/essential-mysql/)
+[SQL Cheat Sheet from a Flatiron Alum](http://www.korenlc.com/sql-cheat-sheet/)
+[Select Statements](https://zetcode.com/databases/mysqltutorial/select)
 
