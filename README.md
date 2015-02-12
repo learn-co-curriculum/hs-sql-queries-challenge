@@ -38,6 +38,7 @@ You should already be connected up to the shared Chinook database for a small mu
 
 + Use joins to find answers to the last two questions by only writing one query.
   * Watch this [video](https://www.youtube.com/watch?v=ia4eCxPPc_o) to learn about joining up tables.
+  * Or read this [blogpost](http://blog.flatironschool.com/post/34096752495/sql-joins-explained-visually-the-3-ring-binder) from a Flatiron alum.
   * And take a look at this cheatsheet for an example of a [join query](http://www.cheatography.com/guslong/cheat-sheets/essential-mysql/).
 
 ### Cheat Sheets
