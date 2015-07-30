@@ -1,9 +1,4 @@
----
-tags: sql, kids, ruby, advanced, challenges
-language: ruby
-level: 2
-type: challenges
----
+
 
 ## Let's get ready to query!!!
 
