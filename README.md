@@ -41,3 +41,5 @@ You should already be connected up to the shared Chinook database for a small mu
 [SQL Cheat Sheet from a Flatiron Alum](http://www.korenlc.com/sql-cheat-sheet/)
 [Select Statements](http://zetcode.com/databases/mysqltutorial/select)
 
+
+<a href='https://learn.co/lessons/hs-sql-queries-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
