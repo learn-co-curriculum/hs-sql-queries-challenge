@@ -42,4 +42,4 @@ You should already be connected up to the shared Chinook database for a small mu
 [Select Statements](http://zetcode.com/databases/mysqltutorial/select)
 
 
-<a href='https://learn.co/lessons/hs-sql-queries-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-sql-queries-challenge' title='Let's get ready to query!!!'>Let's get ready to query!!!</a> on Learn.co and start learning to code for free.</p>
